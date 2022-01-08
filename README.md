@@ -1,5 +1,5 @@
 ### Hi there I'm [Junaid Ahmed](https://junaidx5.netlify.app/) 👋
-![banner](https://i1.wp.com/tolustar.com/wp-content/uploads/2020/02/Front-end-Development.jpeg?w=750&ssl=1)
+![banner](https://scontent.fcgp17-1.fna.fbcdn.net/v/t1.6435-9/56842795_574221616419552_4351947325740941312_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeEa-u7uWxm0IjbDgt-ySKFHOB2_aYhRHfI4Hb9piFEd8qaxNwtkE-6UPP1Z2Nobc-0z1Yj82CXiHg4aHEZCJns2&_nc_ohc=taUKNR8-TPMAX9RKIYM&_nc_ht=scontent.fcgp17-1.fna&oh=00_AT-8WSUEtngRxgdTaebmpGaUkZzBGel5CdyofjuACa9KcQ&oe=61FE10FD)
 
 
 ## I'm Front-End Web Developer!
