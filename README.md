@@ -1,5 +1,6 @@
 ### Hi there I'm [Junaid Ahmed](https://junaidx5.netlify.app/) 👋
-![banner](https://i.ibb.co/X4yp96m/MERN-Stack-Development-and-Consulting-Services.jpg)
+![banner](https://i1.wp.com/tolustar.com/wp-content/uploads/2020/02/Front-end-Development.jpeg?w=750&ssl=1)
+
 
 ## I'm Front-End Web Developer!
 - 🔭 I’m currently working on Front-end Project
