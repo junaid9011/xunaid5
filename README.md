@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on Front-end Project
 - 🌱 I’m currently learning MERN Stack Web Development
 - 👯 I’m looking to collaborate on any kind of interesting projects
-- 🥅 2022 Goals: Learn Node.js, Vue.js, MERN Stack Development
+- 🥅 2022 Goals: Learn Node.js, MERN Stack Development, Be a master in JavaScript and Python.
 - 📫 How to reach me: junaid.cou@gmail.com
 - ⚡ Fun fact: I love to travel a lot, watch movies and explore different programming languages...
 ### Connect With Me:
