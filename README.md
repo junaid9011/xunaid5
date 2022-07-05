@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on MERN Stack Project
 - 👯 I’m looking to collaborate on any kind of interesting projects
 - 🥅 2022 Goals: Learning DevOps, Becoming an expert in web and cloud computing.
-- 📫 How to reach me: junaid.cou@gmail.com
+- 📫 Contact with me: junaid.cou@gmail.com
 - ⚡ Fun fact: I love to travel a lot, watch movies and explore different programming languages...
 ### Connect With Me:
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/junaid-ahmed-aab938225/)
