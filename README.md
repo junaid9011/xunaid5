@@ -1,6 +1,4 @@
 ### Hi there, I'm [Junaid Ahmed](https://junaidx5.netlify.app/) 👋
-![banner](https://scontent.fcgp17-1.fna.fbcdn.net/v/t1.6435-9/56842795_574221616419552_4351947325740941312_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeEa-u7uWxm0IjbDgt-ySKFHOB2_aYhRHfI4Hb9piFEd8qaxNwtkE-6UPP1Z2Nobc-0z1Yj82CXiHg4aHEZCJns2&_nc_ohc=taUKNR8-TPMAX9RKIYM&_nc_ht=scontent.fcgp17-1.fna&oh=00_AT-8WSUEtngRxgdTaebmpGaUkZzBGel5CdyofjuACa9KcQ&oe=61FE10FD)
-
 
 ## I'm a Full-Stack Web Developer at [NETSOFTUK](http://netsoftuk.com/)!
 - 🔭 I’m currently working on MERN Stack Project
